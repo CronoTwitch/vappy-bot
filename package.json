@@ -1,0 +1,22 @@
+{
+  "name": "vappy-bot",
+  "version": "1.0.0",
+  "description": "a bappy vappy bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/preyish/vappy-bot.git"
+  },
+  "author": "a_vaporeon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/preyish/vappy-bot/issues"
+  },
+  "homepage": "https://github.com/preyish/vappy-bot#readme",
+  "dependencies": {
+    "discord.js": "^12.4.1"
+  }
+}
